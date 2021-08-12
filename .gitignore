@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Maps/drasko_map_1_test.umap
+Content/Mats/M_floor_Inst.uasset
